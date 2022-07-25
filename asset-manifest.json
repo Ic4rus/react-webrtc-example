@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-webrtc-example/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/react-webrtc-example/static/js/main.9e24b613.chunk.js",
+    "main.js.map": "/react-webrtc-example/static/js/main.9e24b613.chunk.js.map",
+    "runtime-main.js": "/react-webrtc-example/static/js/runtime-main.034fee06.js",
+    "runtime-main.js.map": "/react-webrtc-example/static/js/runtime-main.034fee06.js.map",
+    "static/js/2.f664b251.chunk.js": "/react-webrtc-example/static/js/2.f664b251.chunk.js",
+    "static/js/2.f664b251.chunk.js.map": "/react-webrtc-example/static/js/2.f664b251.chunk.js.map",
+    "static/js/3.7290f572.chunk.js": "/react-webrtc-example/static/js/3.7290f572.chunk.js",
+    "static/js/3.7290f572.chunk.js.map": "/react-webrtc-example/static/js/3.7290f572.chunk.js.map",
+    "index.html": "/react-webrtc-example/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/react-webrtc-example/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f664b251.chunk.js.LICENSE.txt": "/react-webrtc-example/static/js/2.f664b251.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-webrtc-example/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.034fee06.js",
+    "static/js/2.f664b251.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.9e24b613.chunk.js"
+  ]
+}
